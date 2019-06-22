@@ -14,7 +14,7 @@
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
-		<title>Scion tech solution- Bar code solution</title>
+		<title>Blue gold technology- Bar code solution</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 		<!-- Style -->
@@ -34,7 +34,7 @@
 			<div class="container main-menu">
 				<div class="row align-items-center justify-content-between d-flex">
 					<div id="logo">
-					<a href="index.php"><img src="img/assets/logo/logo1.png" alt="" title="" /></a>
+					<a href="index.php"><img src="img/assets/logo/logoStandard.png" alt="" title="" /></a>
 					</div>
 					<nav id="nav-menu-container">
 					<ul class="nav-menu">

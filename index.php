@@ -10,7 +10,7 @@
 			<div class="banner-content col-lg-12 col-md-12">
 				<h6 class="text-uppercase">Don’t look further, here is the key</h6>
 				<h1>
-					We’re Scion Tech Barcode solution
+					We’re blue gold Technology
 				</h1>
 				<p class="text-white">
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
