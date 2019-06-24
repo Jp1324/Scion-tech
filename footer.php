@@ -6,7 +6,7 @@
 				<div class="single-footer-widget">
 					<h6>About Us</h6>
 					<p>
-						ScionTech Barcode Solutions offers a wide array of services with Barcode solutions such as Professional Application Development,Hardware Services and support,ERP Solutions,Product presentation, Industrial Automation solutions and other small business services					
+					  blue gold Technology offers a wide array of services with Barcode solutions such as Professional Application Development,Hardware Services and support,ERP Solutions,Product presentation, Industrial Automation solutions and other small business services					
 					</p>
 				</div>
 			</div>

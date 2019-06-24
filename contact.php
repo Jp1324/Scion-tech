@@ -25,7 +25,7 @@
 <section class="contact-page-area section-gap">
 	<div class="container">
 		<div class="row">
-			<div class="map-wrap" style="width:100%; height: 445px;">
+			<div class="map-wrap" style="width:100%; height: 45vw;">
 				<img src="img/assets/barcode/map.png" style="width: 100%;" alt="map">
 			</div>
 			<div class="col-lg-4 d-flex flex-column address-wrap">
@@ -34,9 +34,9 @@
 						<span class="lnr lnr-home"></span>
 					</div>
 					<div class="contact-details">
-						<h5>ScionTech Barcode Solutions</h5>
+						<h5>bluegold Technology</h5>
 						<address>
-							NO 4/750 II nd street, Paraniputhur main road Periyakoluthuvancheri Iyyappanthanthangal Chennai-602122
+						Address: plot no:48,  sangamithra avenue, koluthuvanchery,  iyyappanthangal,  chennai-122
 						</address>
 					</div>
 				</div>
