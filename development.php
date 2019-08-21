@@ -27,7 +27,7 @@
 <section class="blog-posts-area section-gap">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-8 post-list blog-post-list">
+			<div class="col-lg-12 post-list blog-post-list">
 				<div class="single-post">
 					<h1>
 						Our Services
@@ -48,6 +48,45 @@
 						address the unique needs
 						of a client organization.
 					</p>
+					<div>
+						<h1 class="title">Our Products</h1>
+						<table class="table">
+							<thead class="thread-dark">
+								<tr>
+									<th>Retail Software</th>
+									<th>Distribution Software</th>
+									<th>Manufacturing Software</th>
+									<th>Mobile App</th>
+								</tr>
+							</thead>
+							<tbody>
+								<td>Point of sale Software<br>
+									Accounting and Inventory<br>
+									Pharmacy Software<br>
+									Garment Software<br>
+								</td>
+								<td>
+									Pharma Distribution<br>
+									FMCG software<br>
+									Mandi Software<br>
+									Automobile Software<br>
+									Wharehouse Management Software<br>
+									Mandi Software<br>
+									DMS Xpert<br>
+								</td>
+								<td>
+									Pharmaceutical Manufacturing Software<br>
+									Ayurvedic & Homeopathic <br>
+									Assembling Industry Software<br>
+								</td>
+								<td>
+									ERetail App<br>
+									Eowner App<br>
+									Eorder App<br>
+								</td>
+							</tbody>
+						</table>
+					</div>
 				</div>
 				<!-- Grid row -->
 				<div class="row">
@@ -74,9 +113,8 @@
 							</div>
 						</div>
 						<a>
-							<img class="img-fluid z-depth-1"
-								src="../Scion-tech/img/assets/logo/marglogo.jpg" alt="video"
-								data-toggle="modal" data-target="#modal4" /> 
+							<img class="img-fluid z-depth-1" src="../Scion-tech/img/assets/logo/marglogo.jpg"
+								alt="video" data-toggle="modal" data-target="#modal4" />
 							<p>
 								FMCG Software, FMCG billing software, FMCG Distributor Software [English]
 							</p>
@@ -105,9 +143,8 @@
 							</div>
 						</div>
 						<a>
-							<img class="img-fluid z-depth-1"
-								src="../Scion-tech/img/assets/logo/marglogo.jpg" alt="video"
-								data-toggle="modal" data-target="#modal4" /> 
+							<img class="img-fluid z-depth-1" src="../Scion-tech/img/assets/logo/marglogo.jpg"
+								alt="video" data-toggle="modal" data-target="#modal4" />
 							<p>
 								Chemist & Pharma software
 							</p>
@@ -136,9 +173,8 @@
 							</div>
 						</div>
 						<a>
-							<img class="img-fluid z-depth-1"
-								src="../Scion-tech/img/assets/logo/marglogo.jpg" alt="video"
-								data-toggle="modal" data-target="#modal4" /> 
+							<img class="img-fluid z-depth-1" src="../Scion-tech/img/assets/logo/marglogo.jpg"
+								alt="video" data-toggle="modal" data-target="#modal4" />
 							<p>
 								SuperMarket software
 							</p>
@@ -168,9 +204,8 @@
 							</div>
 						</div>
 						<a>
-							<img class="img-fluid z-depth-1"
-								src="../Scion-tech/img/assets/logo/marglogo.jpg" alt="video"
-								data-toggle="modal" data-target="#modal4" /> 
+							<img class="img-fluid z-depth-1" src="../Scion-tech/img/assets/logo/marglogo.jpg"
+								alt="video" data-toggle="modal" data-target="#modal4" />
 							<p>
 								Retail billing
 							</p>
@@ -178,7 +213,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-4 sidebar">
+			<!-- <div class="col-lg-4 sidebar">
 				<div class="single-widget category-widget">
 					<h4 class="title">Our Products</h4>
 					<ul>
@@ -244,7 +279,7 @@
 						</li>
 					</ul>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 </section>
